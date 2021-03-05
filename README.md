@@ -6,3 +6,5 @@
 * ### 1 key pair
 * ### 2 security groups
 * ### 1 web server
+
+https://www.pulumi.com/docs/get-started/aws/begin/
